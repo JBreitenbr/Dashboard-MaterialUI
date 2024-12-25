@@ -5,7 +5,7 @@ const GetData = () => {
   const [data, setData] = useState([]);
 
   useEffect(() => {
-    fetch('https://raw.githubusercontent.com/JBreitenbr/spotidjango/refs/heads/main/branch.json')
+    fetch('https://raw.githubusercontent.com/JBreitenbr/Dashboard-MaterialUI/refs/heads/main/src/Data/branch.json')
       .then(response => response.json())
       .then(json => setData(json));
   }, []);

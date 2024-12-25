@@ -1,0 +1,38 @@
+[
+    {
+        "productline__name": "Electronics",
+        "quantityBrancheA": 322,
+        "quantityBrancheB": 316,
+        "quantityBrancheC": 333
+    },
+    {
+        "productline__name": "Fashion",
+        "quantityBrancheA": 263,
+        "quantityBrancheB": 297,
+        "quantityBrancheC": 342
+    },
+    {
+        "productline__name": "Food and Beverages",
+        "quantityBrancheA": 313,
+        "quantityBrancheB": 270,
+        "quantityBrancheC": 369
+    },
+    {
+        "productline__name": "Health and Beauty",
+        "quantityBrancheA": 257,
+        "quantityBrancheB": 320,
+        "quantityBrancheC": 277
+    },
+    {
+        "productline__name": "Home and Lifestyle",
+        "quantityBrancheA": 371,
+        "quantityBrancheB": 295,
+        "quantityBrancheC": 245
+    },
+    {
+        "productline__name": "Sports and Travel",
+        "quantityBrancheA": 333,
+        "quantityBrancheB": 322,
+        "quantityBrancheC": 265
+    }
+]

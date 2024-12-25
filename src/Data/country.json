@@ -1,0 +1,23 @@
+[
+    {
+        "date__month": "1",
+        "quantityNetherlands": 685,
+        "quantityGermany": 680,
+        "quantityFrance": 600,
+        "month_name": "January"
+    },
+    {
+        "date__month": "2",
+        "quantityNetherlands": 493,
+        "quantityGermany": 537,
+        "quantityFrance": 624,
+        "month_name": "February"
+    },
+    {
+        "date__month": "3",
+        "quantityNetherlands": 681,
+        "quantityGermany": 614,
+        "quantityFrance": 596,
+        "month_name": "March"
+    }
+]
