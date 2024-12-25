@@ -1,9 +1,9 @@
 import './App.css'
-import Bars from './Bars'
+import GetData from './GetData';
 export default function App() {
   return (
     <main>
-      <Bars />
+      <GetData />
     </main>
   )
 }

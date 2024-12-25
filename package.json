@@ -1,9 +1,12 @@
 {
   "name": "react-javascript",
+  "homepage": "https://jbreitenbr.github.io/Dashboard-MaterialUI",
   "version": "1.0.0",
   "type": "module",
   "description": "React TypeScript on Replit, using Vite bundler",
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist",
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview"
@@ -26,7 +29,6 @@
     "@mui/icons-material": "^6.2.1",
     "@mui/material": "^6.2.1",
     "@mui/x-charts": "^7.23.2",
-    "axios": "^1.7.9",
     "gh-pages": "^6.2.0",
     "react-router-dom": "^7.1.0"
   }
