@@ -47,7 +47,7 @@ const mycountryseries =
           { dataKey: 'quantityBrancheB', label: 'Quantity Branche B', type: 'line'}, 
           { dataKey: 'quantityBrancheC', label: 'Quantity Branche C', type: 'line'}, 
         ]
-  return(<>{/*<MyPieChart myData={brancheData}/><MyDonutChart
+  return(<><MyPieChart myData={brancheData}/>{/*<MyDonutChart
                             data = {genderData}
                             centerlabel={genderData.reduce((sum, data) => sum + data.value,0)}/>*/}<MyStackedBarChart
                             dataset={productLineData}
