@@ -1,9 +1,9 @@
 import './App.css'
-import GetData from './GetData';
+import Dashboard1 from './Dashboard1';
 export default function App() {
   return (
     <main>
-      <GetData />
+      <Dashboard1 />
     </main>
   )
 }
